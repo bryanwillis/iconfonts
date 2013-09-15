@@ -1,4 +1,10 @@
+http://htmlpreview.github.io/?https://github.com/bryanwillis/iconfonts/blob/master/index.html
+
+
 *** ALL OPENSOURCE FONTELLO AND ICONMOON COMBINED ***
+
+
+
 ~ Nothing special here just a  Quick and Easy way to view all fonts offered by icomoon and fontello at once because they do not have all of the same fonts and drag-select takes forever. You obviously shouldn't use this on a live site because it's way too big of a file, but it makes viewing all the icons in icomoon or fontello a lot faster ~
 
 The only font not from either of these sites is candidbusiness.com's logo (last one in set icon set &#xca;)
