@@ -22,6 +22,11 @@ http://www.freefontconverter.com
 http://www.fontsquirrel.com/fontface/generator
 
 
+I will organize icons and the readme soon and add the rest of the opensource I find
+
+** Here is a great tutorial on how to edit the design of the icons
+http://conor.cc/posts/icon-stacks
+
 *************************************************************
 *************************************************************
 
